@@ -1,0 +1,74 @@
+body {
+    margin: auto;
+    max-width: 700px;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 0 90px rgba(0, 0, 0, 0.24);
+    background-color: rgb(241, 241, 241);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#hold {
+    background-color: white;
+    padding-bottom: 20px;
+}
+
+#nav {
+    background-color: #333;
+    text-align: center;
+    color: white;
+}
+
+#settings {
+    display: block;
+    text-align: right;
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+}
+
+#searchbar {
+    padding: 4px;
+    border: none;
+    border-radius: 12px;
+    width: 70%;
+    background-color: white;
+}
+
+#hold button {
+    border: none;
+    border-radius: 10px;
+    box-shadow: #333;
+    padding: 5px;
+    padding-right: 8px;
+    padding-left: 8px;
+}
+
+#hold a {
+    color: black;
+    text-decoration: none;
+}
+
+
+#hold .ar1 button {
+    background-color: black;
+    color: white;
+}
+
+#log {
+    text-align: center;
+}
+
+#log-p, #log-u {
+    width: 70%;
+    display: inline-block;
+    margin-left: 20px;
+}
+
+#log-p {
+    margin-bottom: 20px;
+}
+
+#uuu {
+    margin-left: 20px;
+}
